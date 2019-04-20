@@ -10,8 +10,21 @@ h2 {
     font-size: 50px;
 }
 
-#link a {
+a {
     color: aquamarine;
     font-size: 16px;
 
 }
+
+h3 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+} 
+
+#camping p {
+    color: gray;
+    font-size: 21px;
+
+}
+
